@@ -1,4 +1,6 @@
 # Create a JavaScript Action
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMeanZhang%2Fwecom-group-robot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMeanZhang%2Fwecom-group-robot?ref=badge_shield)
+
 
 <p align="center">
   <a href="https://github.com/actions/javascript-action/actions"><img alt="javscript-action status" src="https://github.com/actions/javascript-action/workflows/units-test/badge.svg"></a>
@@ -114,3 +116,7 @@ with:
 ```
 
 See the [actions tab](https://github.com/actions/javascript-action/actions) for runs of this action! :rocket:
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMeanZhang%2Fwecom-group-robot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMeanZhang%2Fwecom-group-robot?ref=badge_large)
